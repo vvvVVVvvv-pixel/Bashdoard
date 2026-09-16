@@ -22,17 +22,17 @@ This script runs as a standalone PowerShell utility.
 2. Clone or download the script file:
    ```powershell
    git clone [github.com/vvvVVVvvv-pixel/Bashdoard.git](github.com/vvvVVVvvv-pixel/Bashdoard.git)
-   
+
 # Usage
 Open PowerShell and load or execute the script.
 
 Run the main loop function to initialize the interactive terminal:
 
-PowerShell
+```PowerShell
 Run
-Enter the target account number when prompted.
+# Enter the target account number when prompted.
 
 Refresh-Cookies
-If session cookies have expired, paste the fresh credentials when requested.
+# If session cookies have expired, paste the fresh credentials when requested.
 
-Hit Ctrl + C to cancel an active process, or type Finish to reset the session state.
+# Hit Ctrl + C to cancel an active process, or type Finish to reset the session state.
