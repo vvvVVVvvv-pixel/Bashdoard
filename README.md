@@ -19,9 +19,7 @@ Originally created to eliminate repetitive CRM data entry and streamline technic
 This script runs as a standalone PowerShell utility. 
 
 1. Ensure you have *PowerShell 5.1+* (tested on 5.1.26100.8655).
-2. Clone or download the script file:
-   ```powershell
-   git clone [github.com/vvvVVVvvv-pixel/Bashdoard.git](github.com/vvvVVVvvv-pixel/Bashdoard.git)
+2.just copy and paste the whole thing in a ps terminal
 
 # Usage
 Open PowerShell and load or execute the script.
