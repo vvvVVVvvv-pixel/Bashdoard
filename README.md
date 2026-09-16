@@ -21,7 +21,7 @@ This script runs as a standalone PowerShell utility.
 1. Ensure you have *PowerShell 5.1+* (tested on 5.1.26100.8655).
 2. Clone or download the script file:
    ```powershell
-   git clone [https://github.com/your-username/bashdoard.git](https://github.com/your-username/bashdoard.git)
+   git clone [github.com/vvvVVVvvv-pixel/Bashdoard.git](github.com/vvvVVVvvv-pixel/Bashdoard.git)
    
 # Usage
 Open PowerShell and load or execute the script.
